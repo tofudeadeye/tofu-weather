@@ -1,0 +1,8 @@
+{
+	"weather_frozen": "Weather is frozen: %s",
+	"weather_forecast": "New weather forecast: %s / %s - moon: %s, rain: %s, wind: %s@%s",
+	"weather_forecast_generated": "Weather and forecast has been generated",
+	"weather_forecast_received": "New weather forecast received from server",
+	"weather_set_invalid": "Invalid weather set: %s",
+	"weather_set_forced": "Forcing weather forecast to predefined weather set: %s"
+}
